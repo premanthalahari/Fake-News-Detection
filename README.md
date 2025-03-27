@@ -2,7 +2,7 @@
 
 Classify news articles as real or fake using machine learning and deploy your model with Streamlit! This project provides a step-by-step guide to building a text classification system, from preprocessing raw text data to deploying an interactive web application.
 
-![Streamlit Demo](https://img.shields.io/badge/Streamlit-Demo-FF4B4B?logo=streamlit) [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](fake-news-detector0.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fake-news-detector0.streamlit.app/)
 
 ## 📌 Project Overview
 This project uses the [Fake and Real News Dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset) to train a machine learning model for fake news detection. The deployed Streamlit app allows users to input news text and instantly classify it as real or fake.
